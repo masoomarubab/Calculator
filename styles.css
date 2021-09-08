@@ -41,7 +41,7 @@ body{
 }
 .row .col-3 .btn:hover, .row .col-6 .btn:hover{
     font-size: 1.5rem;
-    transform: scale(1.1, 1.1);
+    transform: scale(1, 1.1);
 }
 
 @media only screen and (max-width:600px){
